@@ -6,7 +6,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/bluehoodie/smoke/internal/tester"
+	"github.com/Subito-it/smoke/internal/tester"
 
 	"github.com/jessevdk/go-flags"
 )
